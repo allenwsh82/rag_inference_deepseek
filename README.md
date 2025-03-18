@@ -1,6 +1,6 @@
 # rag_inference_deepseek
 
-![Uploading deepresize1-1024x684.jpg…]()
+![deepresize1-1024x684](https://github.com/user-attachments/assets/1188bd2a-576a-4e7a-81f7-2735c339169b)
 
 Testing Setup:
 Platform: Intel® Tiber™ AI Studio
