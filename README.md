@@ -2,7 +2,6 @@
 
 ![Uploading deepresize1-1024x684.jpg…]()
 
-
 Testing Setup:
 Platform: Intel® Tiber™ AI Studio
  
