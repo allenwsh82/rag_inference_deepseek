@@ -18,3 +18,31 @@ Platform: Intel® Tiber™ AI Studio
  Toolkit” OpenVINOLLM API function 
  Frameworks:⚙️ LlamaIndex
  RAG Application: PDF Document Input
+
+
+How to run llm with web scraping with RAG Demo:
+
+1) Clone the project:
+   ``` 
+   git clone https://github.com/allenwsh82/rag_inference_deepseek
+   ```
+   
+2) Create a new environment for this project:
+   ```
+   python -m venv rag_env
+   ```
+   
+3) Activate the environment:
+   ```
+   source rag_env/bin/activate
+   ```
+   
+4) Setup the environment with all the dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+   
+5) Run the demo script by this command:
+   ```
+   streamlit run rag_deepseek.py
+   ```
