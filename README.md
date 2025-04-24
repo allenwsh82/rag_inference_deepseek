@@ -20,7 +20,7 @@ Platform: Intel® Tiber™ AI Studio
  RAG Application: PDF Document Input
 
 
-How to run llm with web scraping with RAG Demo:
+How to run llm with QnA ChatBot with RAG Demo:
 
 1) Clone the project:
    ``` 
