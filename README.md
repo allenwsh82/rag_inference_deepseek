@@ -1,6 +1,6 @@
 # rag_inference_deepseek
 
-![deepresize1-100x100](https://github.com/user-attachments/assets/1188bd2a-576a-4e7a-81f7-2735c339169b)
+![Uploading deepseek_chatbot.png…]()
 
 Testing Setup:
 Platform: Intel® Tiber™ AI Studio
