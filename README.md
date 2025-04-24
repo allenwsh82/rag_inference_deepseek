@@ -1,6 +1,6 @@
 # rag_inference_deepseek
 
-![deepresize1-600x600](https://github.com/user-attachments/assets/1188bd2a-576a-4e7a-81f7-2735c339169b)
+![deepresize1-400x400](https://github.com/user-attachments/assets/1188bd2a-576a-4e7a-81f7-2735c339169b)
 
 Testing Setup:
 Platform: Intel® Tiber™ AI Studio
@@ -20,7 +20,7 @@ Frameworks:⚙️ LlamaIndex
 RAG Application: PDF Document Input
 
 
-<img width="665" alt="AI_ChatBot_DeepSeek" src="https://github.com/user-attachments/assets/7a0a81a9-b009-45d3-aff3-43d07afca8e0" />
+<img width="800" alt="AI_ChatBot_DeepSeek" src="https://github.com/user-attachments/assets/7a0a81a9-b009-45d3-aff3-43d07afca8e0" />
 
 How to run llm with QnA ChatBot with RAG Demo:
 
