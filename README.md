@@ -20,7 +20,7 @@ Frameworks:⚙️ LlamaIndex
 RAG Application: PDF Document Input
 
 
-<img width="900" alt="AI_ChatBot_DeepSeek" src="https://github.com/user-attachments/assets/7a0a81a9-b009-45d3-aff3-43d07afca8e0" />
+<img width="1024" alt="AI_ChatBot_DeepSeek" src="https://github.com/user-attachments/assets/7a0a81a9-b009-45d3-aff3-43d07afca8e0" />
 
 How to run llm with QnA ChatBot with RAG Demo:
 
