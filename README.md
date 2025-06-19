@@ -34,15 +34,20 @@ RAG Application: PDF Document Input
 
 Key Components / Features:
  <br/>
+ <br/>
 reader = SimpleWebPageReader Reader API used to simplify data ingestion from multiple sources which include webpages for processing and data extraction. Follow this URL: https://lnkd.in/e-_yEFZk
+ <br/>
  <br/>
 query_engine = index.as_query_engine query engine API takes in natural language query and generates a rich response to the user. It has built in one or many indexes capacities as retrievers which simplify the process of building a AI ChatBot with RAG capabilities. Follow this URL: https://lnkd.in/ezpK-RF9
  <br/>
+ <br/>
 index = VectorStoreIndex.from_documents Vector Stores are key component in RAG and you can easily call out this function from LlamaIndex to load a set of documents and build an index from them using from_documents. Follow this URL: https://lnkd.in/evJQsj-M
  <br/>
+ <br/>
 ov_llm = OpenVINOLLM ( )
+ <br/>
 OpenVINO LLMs is an open-source toolkit for optimizing and deploying AI inference. OpenVINO™ Runtime can enable running the same model optimized across various hardware devices. Accelerate your deep learning performance across use cases like: language + LLMs, computer vision, automatic speech recognition, and more.
-
+ <br/>
 How to run llm with QnA ChatBot with RAG Demo:
 
 1) Clone the project:
