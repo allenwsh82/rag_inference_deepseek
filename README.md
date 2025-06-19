@@ -16,6 +16,8 @@ Platform: Intel® Tiber™ AI Studio
  <br/>
  🛠️ optimum-intel
  <br/>
+ 🛠️ transformers
+ <br/>
  
 Testing Configuration:
 <br/>
