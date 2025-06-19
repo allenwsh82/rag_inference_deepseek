@@ -54,13 +54,18 @@ How to run llm with QnA ChatBot with RAG Demo:
    ```
    pip install -r requirements.txt
    ```
+
+5) Don't forget to include huggingface-cli login token into your current environment:
+   ```
+   huggingface-cli login --token "hf_xxxxxxxxxxxxxxxxxxxx"
+   ```
    
-5) Run the demo script by this command:
+6) Run the demo script by this command:
    ```
    streamlit run rag_deepseek.py
    ```
 
-6) Open a browser and type the following Port:8501 at the local URL:
+7) Open a browser and type the following Port:8501 at the local URL:
    ```
    http://localhost:8501/
    ```
