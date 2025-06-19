@@ -20,7 +20,7 @@ from llama_index.llms.openvino import OpenVINOLLM
 import streamlit as st
 
 #Insert Intel Logo (Make sure u point the right path to the logo your save)
-#st.logo ("/home/smgailab/data1/AI_Allen/image/Intel_logo.png", link=None, icon_image=None)
+st.logo ("Intel_logo.png", link=None, icon_image=None)
 
 #Insert Intel AI Everywhere 
 #st.image ("/home/smgailab/data1/AI_Allen/image/Intel_AI.jpg", caption="Intel AI Everywhere!")
