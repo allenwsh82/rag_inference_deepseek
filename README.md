@@ -46,6 +46,7 @@ index = VectorStoreIndex.from_documents Vector Stores are key component in RAG a
  <br/>
 ov_llm = OpenVINOLLM ( )
  <br/>
+ <br/>
 OpenVINO LLMs is an open-source toolkit for optimizing and deploying AI inference. OpenVINO™ Runtime can enable running the same model optimized across various hardware devices. Accelerate your deep learning performance across use cases like: language + LLMs, computer vision, automatic speech recognition, and more.
  <br/>
  <br/>
