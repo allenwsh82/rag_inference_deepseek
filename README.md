@@ -81,7 +81,7 @@ Once you have upload your pdf document, basically, we can prompt the LLM model f
 
 <img width="950" alt="image_2" src="https://github.com/user-attachments/assets/6adbdc99-f9e0-4af7-8197-7dcfcfe2aa4e" />
 
-
+<br/>
 
 
 
