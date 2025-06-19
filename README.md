@@ -83,7 +83,7 @@ You should be seeing the following streamlit UI as shown below:
 <img width="959" alt="image_1" src="https://github.com/user-attachments/assets/07636445-63b0-4767-b7d3-825c025e935c" />
 
 <br/>
-
+<br/>
 
 Once you have upload your pdf document, basically, we can prompt the LLM model for any questions related to the pdf document 
 
