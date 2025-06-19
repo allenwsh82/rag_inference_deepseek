@@ -79,7 +79,7 @@ How to run llm with QnA ChatBot with RAG Demo:
    
 6) Run the demo script by this command:
    ```
-   streamlit run rag_deepseek.py
+   streamlit run inference.py
    ```
 
 7) Open a browser and type the following Port:8501 at the local URL:
