@@ -14,11 +14,15 @@ Platform: Intel® Tiber™ AI Studio
  🛠️ optimum-intel
  
 Testing Configuration:
+<br/>
 Model: DeepSeek-R1-Distill-Llama-8B
-Toolkit” OpenVINOLLM API function 
+<br/>
+Toolkit:  OpenVINOLLM API function
+<br/>
 Frameworks:⚙️ LlamaIndex
+<br/>
 RAG Application: PDF Document Input
-
+<br/>
 
 <img width="1024" alt="AI_ChatBot_DeepSeek" src="https://github.com/user-attachments/assets/7a0a81a9-b009-45d3-aff3-43d07afca8e0" />
 
