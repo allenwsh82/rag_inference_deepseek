@@ -66,6 +66,7 @@ How to run llm with QnA ChatBot with RAG Demo:
    ```
 
 You should be seeing the following streamlit UI as shown below:
+
 <br/>
 
 <img width="959" alt="image_1" src="https://github.com/user-attachments/assets/07636445-63b0-4767-b7d3-825c025e935c" />
@@ -73,6 +74,7 @@ You should be seeing the following streamlit UI as shown below:
 
 
 Once you have upload your pdf document, basically, we can prompt the LLM model for any questions related to the pdf document 
+
 <br/>
 
 <img width="950" alt="image_2" src="https://github.com/user-attachments/assets/6adbdc99-f9e0-4af7-8197-7dcfcfe2aa4e" />
