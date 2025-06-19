@@ -9,9 +9,13 @@ Platform: Intel® Tiber™ AI Studio
  🖥️ One Bare Metal Machine Intel Xeon 5th Gen (8592-64C) with 1TB of Memory
  
  Software Packages:
+ <br/>
  🛠️ LlamaIndex
+ <br/>
  🛠️ Intel OpenVINO
+ <br/>
  🛠️ optimum-intel
+ <br/>
  
 Testing Configuration:
 <br/>
