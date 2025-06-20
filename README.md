@@ -69,7 +69,7 @@ How to run llm with QnA ChatBot with RAG Demo:
 
 4) You should be able to see a new folder called rag_env inside the folder of rag_inference_deepseek
 <br/>
-   <img width="500" alt="rag_inference_deepseek folder" src="https://github.com/user-attachments/assets/1c17b444-3144-46b7-8139-bed9a4984c1e" />
+            <img width="500" alt="rag_inference_deepseek folder" src="https://github.com/user-attachments/assets/1c17b444-3144-46b7-8139-bed9a4984c1e" />
 <br/>
  
 5) Setup the environment with all the dependencies:
