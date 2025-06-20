@@ -66,23 +66,29 @@ How to run llm with QnA ChatBot with RAG Demo:
    ```
    source rag_env/bin/activate
    ```
+
+4) You should be able to see a new folder called rag_env inside the folder of rag_inference_deepseek
+
+<br/>
+<img width="359" alt="rag_inference_deepseek folder" src="https://github.com/user-attachments/assets/1c17b444-3144-46b7-8139-bed9a4984c1e" />
+<br/>
    
-4) Setup the environment with all the dependencies:
+5) Setup the environment with all the dependencies:
    ```
    pip install -r requirements.txt
    ```
 
-5) Don't forget to include huggingface-cli login token into your current environment:
+6) Don't forget to include huggingface-cli login token into your current environment:
    ```
    huggingface-cli login --token "hf_xxxxxxxxxxxxxxxxxxxx"
    ```
    
-6) Run the demo script by this command:
+7) Run the demo script by this command:
    ```
    streamlit run inference.py
    ```
 
-7) Open a browser and type the following Port:8501 at the local URL:
+8) Open a browser and type the following Port:8501 at the local URL:
    ```
    http://localhost:8501/
    ```
