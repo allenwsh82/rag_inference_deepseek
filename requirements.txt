@@ -2,3 +2,6 @@ llama-index
 llama-index-llms-openvino
 transformers 
 huggingface_hub
+Ipython
+llama_index.embeddings.huggingface
+streamlit
