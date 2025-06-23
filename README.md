@@ -61,28 +61,23 @@ How to run llm with QnA ChatBot with RAG Demo:
    ```
    python -m venv rag_env
    ```
+   <br/>
+   <img width="500" alt="github_rag_3" src="https://github.com/user-attachments/assets/7e72aef9-0f42-4309-bb94-9193e044c5ae" />
+   <br/>
    
 3) You should be able to see a new folder called rag_env inside the folder of rag_inference_deepseek
+   
    <br/>
    <img width="500" alt="rag_inference_deepseek folder" src="https://github.com/user-attachments/assets/1c17b444-3144-46b7-8139-bed9a4984c1e" />
    <br/>
 
 
-4) Activate the environment:
+5) Activate the environment:
    ```
    source rag_env/bin/activate
    ```
    <br/>
    <img width="500" alt="github_rag_4" src="https://github.com/user-attachments/assets/70ef065d-1772-48ae-ac53-a81976ccaa7f" />
-   <br/>
-   
-
-5) Setup the environment with all the dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-   <br/>
-   <img width="500" alt="github_rag_5" src="https://github.com/user-attachments/assets/23254544-9dda-4482-a6d3-447301dcf4d0" />
    <br/>
 
 6) Make sure all .py file is in executable:
@@ -92,18 +87,33 @@ How to run llm with QnA ChatBot with RAG Demo:
    <br/>
    <img width="500" alt="github_rag_6png" src="https://github.com/user-attachments/assets/f6d63d3b-1df2-4976-8bef-79138dba6a9c" />
    <br/>
-   
-7) Don't forget to include huggingface-cli login token into your current environment:
+
+7) Setup the environment with all the dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+   <br/>
+   <img width="500" alt="github_rag_5" src="https://github.com/user-attachments/assets/23254544-9dda-4482-a6d3-447301dcf4d0" />
+   <br/>
+
+
+8) Don't forget to include huggingface-cli login token into your current environment:
    ```
    huggingface-cli login --token "hf_xxxxxxxxxxxxxxxxxxxx"
    ```
+   <br/>
+   ![github_rag_8](https://github.com/user-attachments/assets/f91d36d1-df97-4d08-84fa-ef8b8630ecbd)
+   <br/>
    
-8) Run the demo script by this command:
+9) Run the demo script by this command:
    ```
    streamlit run inference.py
    ```
+   <br/>
+   <img width="500" alt="github_rag_9" src="https://github.com/user-attachments/assets/adcf8540-45df-4682-bb5e-f701bb6246c9" />
+   <br/>
 
-9) Open a browser and type the following Port:8501 at the local URL:
+10) Open a browser and type the following Port:8501 at the local URL:
    ```
    http://localhost:8501/
    ```
