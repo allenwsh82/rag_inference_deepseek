@@ -5,3 +5,4 @@ huggingface_hub
 Ipython
 llama_index.embeddings.huggingface
 streamlit
+tornado==6.4.2
