@@ -56,6 +56,9 @@ How to run llm with QnA ChatBot with RAG Demo:
    ``` 
    git clone https://github.com/allenwsh82/rag_inference_deepseek
    ```
+   <br/>
+   <img width="500" alt="github_rag_2" src="https://github.com/user-attachments/assets/75a5e07c-5b71-4842-b50b-1ec2eb1a04ff" />
+   <br/>
    
 2) Create a new environment for this project:
    ```
