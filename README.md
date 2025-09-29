@@ -1,4 +1,4 @@
-# rag_inference_deepseek
+# Retrieval Augmented Generation with DeepSeek AI Model 
 
 <img width="800" alt="deepseek_chatbot" src="https://github.com/user-attachments/assets/a8ced19a-cfd3-4431-a95f-e9f39dc1f930" />
 
