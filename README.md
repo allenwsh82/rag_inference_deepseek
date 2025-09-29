@@ -2,10 +2,10 @@
 
 <img width="800" alt="deepseek_chatbot" src="https://github.com/user-attachments/assets/a8ced19a-cfd3-4431-a95f-e9f39dc1f930" />
 
-Testing Setup:
+**Testing Setup:**
 Platform: Intel® Tiber™ AI Studio
  
- Hardware:
+**Hardware:**
  🖥️ One Bare Metal Machine Intel Xeon 5th Gen (8592-64C) with 1TB of Memory
  
  Software Packages:
@@ -19,7 +19,7 @@ Platform: Intel® Tiber™ AI Studio
  🛠️ transformers
  <br/>
  
-Testing Configuration:
+**Testing Configuration:**
 <br/>
 Model: DeepSeek-R1-Distill-Llama-8B
 <br/>
@@ -32,7 +32,7 @@ RAG Application: PDF Document Input
 
 <img width="1024" alt="AI_ChatBot_DeepSeek" src="https://github.com/user-attachments/assets/7a0a81a9-b009-45d3-aff3-43d07afca8e0" />
 
-Key Components / Features:
+**Key Components / Features:**
  <br/>
  <br/>
 reader = SimpleWebPageReader Reader API used to simplify data ingestion from multiple sources which include webpages for processing and data extraction. Follow this URL: https://lnkd.in/e-_yEFZk
@@ -50,7 +50,7 @@ ov_llm = OpenVINOLLM ( )
 OpenVINO LLMs is an open-source toolkit for optimizing and deploying AI inference. OpenVINO™ Runtime can enable running the same model optimized across various hardware devices. Accelerate your deep learning performance across use cases like: language + LLMs, computer vision, automatic speech recognition, and more.
  <br/>
  <br/>
-How to run llm with QnA ChatBot with RAG Demo:
+**How to run llm with QnA ChatBot with RAG Demo:**
  <br/>
 1) Clone the project:
    ``` 
